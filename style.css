@@ -1,0 +1,6 @@
+:root{
+    ---cor-de-fundo:var(---cor-de-fundo) #e40185;
+    ---cor-de-fonte:var(---cor-de-fonte) #532505;
+
+    @import url(https://fonts.google.com/specimen/Science+Gothic?preview.text=los%20SIX%20SEVEN%0A);
+}
