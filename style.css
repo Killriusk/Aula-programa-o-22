@@ -1,16 +1,30 @@
-:root{
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+body{
     ---cor-de-fundo:var(---cor-de-fundo) #64535d;
     ---cor-de-fonte:var(---cor-de-fonte) #122f7e;
    color: rgb(255, 255, 255);
-   background-color:#122f7e;
-body{
-.tilt-warp-uniquifier> {
+   background-color:#222d8f;
+
   font-family: "Tilt Warp", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  font-size:large;
   font-variation-settings:
-    "XROT" 0,
-    "YROT" 0;
 }
+
+.background-azul{
+    background-color: #ee6628;
+    text-align: center;
+    padding: 22px;
+    margin: 10px;
+    
+}
+
+.linguagem{
+    background-color: #67ad17;
+    text-align: center;
+    padding: 12px;
+    margin: 40px;
+    
 }
